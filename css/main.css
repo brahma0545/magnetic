@@ -502,10 +502,21 @@ h5, h6          { font-weight: bolder }
     margin-bottom: 10px;
 
 }
+.content ul{
+    margin-left: 20px;
+}
 .bank-details{
     margin-bottom: 0px !important;
 }
 
+.course-objective{
+    /*margin-top: 30px !important;*/
+    padding: 20px 0px !important;
+}
+
+.course-objective ul{
+    margin-left: 25px;
+}
 
 
 
