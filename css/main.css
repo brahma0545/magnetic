@@ -398,7 +398,7 @@ h5, h6          { font-weight: bolder }
     background: url('../img/work1.jpg') no-repeat;
 }
 .bg-java{
-    background-position:10% 10% !important;
+    background-position:10% 50% !important;
     background: url('../img/work3.jpg') no-repeat;
 }
 .bg-javascript{
@@ -706,6 +706,9 @@ h5, h6          { font-weight: bolder }
     .course_structure {
         width:60%;
         margin-left: 20%;
+    }
+    .fee-hidden-md{
+      display: none;
     }
 
 }
