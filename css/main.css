@@ -393,6 +393,18 @@ h5, h6          { font-weight: bolder }
     background-position:50% 12% !important;
     background: url('../img/reg.png') no-repeat;
 }
+.bg-htmlcss{
+    background-position:10% 10% !important;
+    background: url('../img/work1.jpg') no-repeat;
+}
+.bg-java{
+    background-position:10% 10% !important;
+    background: url('../img/work3.jpg') no-repeat;
+}
+.bg-javascript{
+    background-position:10% 10% !important;
+    background: url('../img/work2.jpg') no-repeat;
+}
 
 
 .work_nav{
@@ -505,6 +517,7 @@ h5, h6          { font-weight: bolder }
 .content ul{
     margin-left: 20px;
 }
+
 .bank-details{
     margin-bottom: 0px !important;
 }
