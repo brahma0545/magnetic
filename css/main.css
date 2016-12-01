@@ -680,7 +680,7 @@ h5, h6          { font-weight: bolder }
         width:  100%;
     }
 }
-@media (max-width: 720px){
+@media (max-width: 770px){
     .main {
         margin-top: 0px;
 
@@ -690,7 +690,7 @@ h5, h6          { font-weight: bolder }
         width:100%;
     }
 }
-@media (min-width: 721px){
+@media (min-width: 771px){
     section {
         margin-top: 5vh;
 
