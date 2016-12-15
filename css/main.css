@@ -405,7 +405,10 @@ h5, h6          { font-weight: bolder }
     background-position:10% 10% !important;
     background: url('../img/work2.jpg') no-repeat;
 }
-
+.bg-git{
+    background-position:50% 18% !important;
+    background: url('../img/work8.jpg') no-repeat;
+}
 
 .work_nav{
     display: block;
